@@ -1,5 +1,5 @@
 # define punctuation  
-punctuation = '''''!()-[]{};:'"\,<>./?@#$%^&*_~'''  
+punctuation = '''''!()-[]{};:'"\,<>./?@#$%^+&*_~'''  
 # take input from the user  
 my_str = input("Enter a string: ")  
 # remove punctuation from the string  
