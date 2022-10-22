@@ -16,7 +16,7 @@
 4. Commits criteria :-
 	- **Folder name** :
 	```
-		-> Programme name
+		-> Same as program name
 		-> only alphabets & underscore(_) allowed
 	```
 	- **Readme file** :
