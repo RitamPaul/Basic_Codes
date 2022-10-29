@@ -11,6 +11,7 @@ using namespace std;
 int main()
 {
 int n,i,j,k,a=1;
+cout<<"Enter the number of rows in a single digit";
     cin>>n;
     for(i=1;i<=n;i++)
     {      if(i==1){
